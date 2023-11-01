@@ -1,3 +1,11 @@
-h1{
-    text-align: center;
+body { 
+      background:#7da9f5
+}
+
+p {
+   text-align: center;
+}
+
+strong {
+    color: mediumvioletred;
 }
