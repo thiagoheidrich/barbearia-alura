@@ -24,7 +24,12 @@ width: 100%;
 
 }
 .beneficios {
-background:@ffffff 
+background:#ffffff ;
 padding: 20px;
+
+}
+
+.imagembenefícios {
+width: 70%;
 
 }
